@@ -63,8 +63,10 @@
     "links": [
       "https://extension.ucsd.edu/news-and-events/extension-blog/March-2018/Creating-great-21st-century-cities"
     ],
-    "estimated_completion": "2021",
-    "estimated_groundbreak": "2017"
+    "events": [
+      { "Completion (estimated)": 2021 },
+      { "Groundbreaking": 2017 }
+    ]
   },
   {
     "type": "project",
@@ -75,9 +77,7 @@
     "description": "",
     "links": [
       "https://www.seaportsandiegoca.com/"
-    ],
-    "estimated_completion": "",
-    "estimated_groundbreak": ""
+    ]
   },
   {
     "type": "project",
@@ -89,8 +89,10 @@
     "links": [
       "https://www.sandiegouniontribune.com/business/growth-development/sd-preview-of-2-billion-bayfront-project-20181031-photogallery.html"
     ],
-    "estimated_completion": "2021",
-    "estimated_groundbreak": "2019"
+    "events": [
+      { "Completion (estimated)": 2021 },
+      { "Groundbreaking": 2019 }
+    ]
   },
   {
     "type": "project",
@@ -100,8 +102,10 @@
     "title": "Orchestra Venue",
     "description": "",
     "links": [],
-    "estimated_completion": "2020",
-    "estimated_groundbreak": ""
+    "events": [
+      { "Completion (estimated)": 2020 },
+      { "Groundbreaking": 2019 }
+    ]
   },
   {
     "type": "project",
@@ -110,9 +114,7 @@
     "address": "",
     "title": "SDIA Terminal 1 Replacement",
     "description": "",
-    "links": [],
-    "estimated_completion": "",
-    "estimated_groundbreak": ""
+    "links": []
   },
   {
     "type": "project",
@@ -121,9 +123,7 @@
     "address": "",
     "title": "Convention Center Expansion",
     "description": "",
-    "links": [],
-    "estimated_completion": "",
-    "estimated_groundbreak": ""
+    "links": []
   },
   {
     "type": "hotel",
@@ -169,8 +169,10 @@
     "links": [
       "http://www.parks.ca.gov/?page_id=29918"
     ],
-    "estimated_groundbreak": "Fall 2018",
-    "estimated_completion": "Spring 2020"
+    "events": [
+      { "Completion (estimated)": 2020 },
+      { "Groundbreaking": 2018 }
+    ]
   },
   {
     "address": "707 17th Street, San Diego, CA 92101",
@@ -228,8 +230,10 @@
       "http://land-lab.com/project/india-beech-luxury-apartments/",
       "https://mhpmag.com/2019/12/parkview-financial-provides-7-million-loan-for-the-land-acquisition-and-development-of-a-planned-28-story-apartment-retail-project-in-downtown-san-diego/"
     ],
-    "estimated_groundbreak": "2020",
-    "estimated_completion": "2022"
+    "events": [
+      { "Completion (estimated)": 2022 },
+      { "Groundbreaking": 2020 }
+    ]
   },
   {
     "type": "residential",
@@ -281,7 +285,9 @@
     "links": [
       "https://www.sandiegouniontribune.com/business/growth-development/story/2019-11-15/childrens-park-is-gearing-up-for-an-8m-renovation"
     ],
-    "estimated_completion": "Summer 2021"
+    "events": [
+      { "Completion (estimated)": 2021 }
+    ]
   },
   {
     "location": "Third and A Street",
@@ -300,7 +306,9 @@
       "https://www.sandiegouniontribune.com/business/growth-development/sd-me-courthouse-housing-20180517-story.html",
       "https://www.sandiegocounty.gov/content/sdc/sdhcd/community-development/current-housing-developments/6TH-Avenue-Family-Court-Affordable-Housing.html"
     ],
-    "estimated_groundbreak": "2023",
-    "estimated_completion": "2024"
+    "events": [
+      { "Completion (estimated)": 2024 },
+      { "Groundbreaking (estimated)": 2023 }
+    ]
   }
 ]
