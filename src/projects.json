@@ -1,0 +1,305 @@
+[
+  {
+    "type": "residential",
+    "status": "planning",
+    "neighborhood": "East Village",
+    "address": "Trolley Plaza, San Diego, CA 92101",
+    "title": "MTS 12th/Imperial Station Development",
+    "description": "A sliver of underutilized real estate near Petco Park downtown could be turned into a 500-foot residential tower with downstairs access to bus and trolley lines and other city services. MTS has an RFP out to develop their property next to the 12th/Imperial station. The site could allow up to a 500' tall development",
+    "links": [
+      "https://www.sandiegouniontribune.com/business/growth-development/story/2019-12-23/mts-ready-to-expand-transit-center-erect-a-high-rise-near-petco-park"
+    ]
+  },
+  {
+    "type": "project",
+    "neighborhood": "East Village",
+    "address": "",
+    "title": "Tailgate Park Redevelopment",
+    "description": "City of San Diego has RFP out for existing tailgate park, which comprises four city blocks.",
+    "links": []
+  },
+  {
+    "type": "project",
+    "neighborhood": "East Village",
+    "address": "",
+    "title": "Parcel D",
+    "description": "currently used as stadium parking, received approval in Q1 this year for up to 800,000 SF of development",
+    "links": []
+  },
+  {
+    "type": "residential",
+    "status": "construction",
+    "neighborhood": "Marina",
+    "address": "",
+    "title": "",
+    "description": "Tallest residential building opening 2020 (Bosa building on Broadway)",
+    "links": [],
+    "estimated_completion": ""
+  },
+  {
+    "type": "project",
+    "neighborhood": "Gaslamp Quarter",
+    "address": "",
+    "title": "Horton Plaza Redevelopment",
+    "description": "",
+    "links": []
+  },
+  {
+    "type": "project",
+    "neighborhood": "Marina",
+    "address": "",
+    "title": "Ritz Carlton",
+    "description": "",
+    "links": []
+  },
+  {
+    "type": "project",
+    "status": "construction",
+    "neighborhood": "East Village",
+    "location": "Park Avenue and Market Street",
+    "title": "UCSD downtown site",
+    "description": "The state-of-the-art development, set to open in 2021, also aims to ease the city’s housing crunch with a 34-story residential tower. Of its 426 units, 85 will be reserved for very low- income residents.",
+    "links": [
+      "https://extension.ucsd.edu/news-and-events/extension-blog/March-2018/Creating-great-21st-century-cities"
+    ],
+    "estimated_completion": "2021",
+    "estimated_groundbreak": "2017"
+  },
+  {
+    "type": "project",
+    "status": "planning",
+    "neighborhood": "Marina",
+    "address": "",
+    "title": "Seaport Village Redevelopment",
+    "description": "",
+    "links": [
+      "https://www.seaportsandiegoca.com/"
+    ],
+    "estimated_completion": "",
+    "estimated_groundbreak": ""
+  },
+  {
+    "type": "project",
+    "status": "construction",
+    "neighborhood": "Marina",
+    "address": "",
+    "title": "Manchester Pacific Gateway",
+    "description": "encompasses seven buildings, plus a 1.9-acre public park, replacing what is known as the Navy Broadway Complex, which the Navy has occupied since the early 1920s.",
+    "links": [
+      "https://www.sandiegouniontribune.com/business/growth-development/sd-preview-of-2-billion-bayfront-project-20181031-photogallery.html"
+    ],
+    "estimated_completion": "2021",
+    "estimated_groundbreak": "2019"
+  },
+  {
+    "type": "project",
+    "status": "construction",
+    "neighborhood": "Marina",
+    "address": "",
+    "title": "Orchestra Venue",
+    "description": "",
+    "links": [],
+    "estimated_completion": "2020",
+    "estimated_groundbreak": ""
+  },
+  {
+    "type": "project",
+    "status": "planning",
+    "neighborhood": "Marina",
+    "address": "",
+    "title": "SDIA Terminal 1 Replacement",
+    "description": "",
+    "links": [],
+    "estimated_completion": "",
+    "estimated_groundbreak": ""
+  },
+  {
+    "type": "project",
+    "status": "planning",
+    "neighborhood": "Marina",
+    "address": "",
+    "title": "Convention Center Expansion",
+    "description": "",
+    "links": [],
+    "estimated_completion": "",
+    "estimated_groundbreak": ""
+  },
+  {
+    "type": "hotel",
+    "status": "planning",
+    "neighborhood": "Marina",
+    "title": "Harbor Island Hotel",
+    "description": "A long-sought hotel on Harbor Island, once thought to be on the brink of collapse, was brought back to life Tuesday when San Diego port commissioners agreed the $160 million project should move forward for further review.",
+    "links": [
+      "https://www.sandiegouniontribune.com/business/tourism/story/2019-10-08/sunroads-long-planned-harbor-island-hotel-gets-ok-from-port-to-move-forward"
+    ]
+  },
+  {
+    "title": "5th Avenue Landing",
+    "description": "high-rise hotel with approximately 830 rooms and a low-rise, 565-bed hotel, along with an expanded marina, new public open spaces and waterfront viewing areas.",
+    "type": "hotel",
+    "status": "planning",
+    "links": [
+      "https://www.sdbj.com/news/2016/mar/09/port-district-begins-review-hotels-planned-near-co/",
+      "http://5thavenuelanding.com/",
+      "https://www.gensler.com/projects/5th-avenue-landing",
+      "https://www.sandiegouniontribune.com/business/tourism/story/2019-05-06/crucial-hearing-and-verdict-on-waterfront-hotel-project-near-convention-center-is-postponed"
+    ],
+    "neighborhood": "Marina"
+  },
+  {
+    "title": "SPAWAR Redevelopment",
+    "address": "4301 Pacific Hwy, San Diego, CA 92110",
+    "type": "project",
+    "status": "planning",
+    "neighborhood": "Midway District",
+    "description": "The Navy is making room for the possibility of a much-talked-about transit center, one that local leaders have dubbed “San Diego Grand Central Station,” at the 70-acre base that overlooks Interstate 5 near the northern edge of the Point Loma peninsula.",
+    "links": [
+      "https://www.sandiegouniontribune.com/business/growth-development/story/2019-07-09/navy-will-consider-grand-central-station-in-redevelopment-of-point-loma-base",
+      "https://www.sandiegouniontribune.com/business/growth-development/story/2019-05-02/what-should-the-navy-do-with-spawar-site-usd-students-have-a-winning-plan"
+    ]
+  },
+  {
+    "neighborhood": "Old Town",
+    "type": "park",
+    "title": "Caltrans Complex Demolition Project",
+    "description": "Starting spring 2020, Californians and visitors from all over the world will have a new outdoor space within Old Town San Diego State Historic Park (Old Town). Not only will visitors have the opportunity to connect with nature, family and friends, they will also have the opportunity to learn about Old Town’s residents and the Kumeyaay people and their relationship to the San Diego River.",
+    "status": "construction",
+    "links": [
+      "http://www.parks.ca.gov/?page_id=29918"
+    ],
+    "estimated_groundbreak": "Fall 2018",
+    "estimated_completion": "Spring 2020"
+  },
+  {
+    "address": "707 17th Street, San Diego, CA 92101",
+    "title": "The Link",
+    "type": "residential",
+    "description": "85 units Supportive Housing for the homeless",
+    "status": "construction",
+    "estimated_completion": "Fall 2020",
+    "neighborhood": "East Village",
+    "links": [
+      "https://www.multihousingnews.com/post/affordable-san-diego-project-breaks-ground/"
+    ]
+  },
+  {
+    "title": "Cedar Park",
+    "description": "two-story, 9,904 square foot chef-driven restaurant with a bar menu focused on craft beer, cocktails and wine",
+    "type": "restaurant",
+    "neighborhood": "Little Italy",
+    "status": "planning",
+    "address": "1565 India St, San Diego, CA 92101",
+    "links": [
+      "http://creativehouseco.com/project/cedar-park/"
+    ]
+  },
+  {
+    "title": "",
+    "neighborhood": "Little Italy",
+    "type": "residential",
+    "address": "715 W Cedar St, San Diego, CA 92101",
+    "status": "planning",
+    "description": "30-story building with 265 market rate apartments, an 8-story building with 63 subsidized apartments for seniors, and 5,115 sq feet of retail space. It is on the corner of Cedar and Kettner, which is the site of a five-story County parking garage.",
+    "links": [
+      "https://www.sandiegouniontribune.com/business/real-estate/story/2019-09-25/little-italy-tower-with-market-rate-and-senior-housing-approved?"
+    ]
+  },
+  {
+    "title": "Alexan Little Italy",
+    "address": "232 West Ash Street, San Diego, CA 92101",
+    "neighborhood": "Little Italy",
+    "type": "residential",
+    "status": "planning",
+    "description": "36-story apartment building with 389 apartments, 32 of which will be restricted to very low income residents and spread across the bottom 11 floors. There will be 405 parking spaces in three underground levels and five floors above ground.",
+    "links": [
+      "https://www.sandiegouniontribune.com/business/real-estate/sd-fi-little-italy-tower-20181218-story.html"
+    ]
+  },
+  {
+    "neighborhood": "Little Italy",
+    "address": "1460 India Street, San Diego, CA 92101",
+    "status": "planning",
+    "type": "residential",
+    "description": "26 story tower with integrated outdoor amenities on two levels and ground level retail",
+    "links": [
+      "http://www.kwanhenmi.com/india-beech",
+      "http://land-lab.com/project/india-beech-luxury-apartments/",
+      "https://mhpmag.com/2019/12/parkview-financial-provides-7-million-loan-for-the-land-acquisition-and-development-of-a-planned-28-story-apartment-retail-project-in-downtown-san-diego/"
+    ],
+    "estimated_groundbreak": "2020",
+    "estimated_completion": "2022"
+  },
+  {
+    "type": "residential",
+    "neighborhood": "Cortez Hill",
+    "location": "First and Beech",
+    "status": "planning",
+    "description": "429-unit apartment tower near the intersection of First and Beech streets. The 39-story tower was approved in 2016, but developer Willmark Communities sought to add 65 more apartments and make slight changes to the design. The project’s tower will be 425 feet tall and would be one of the tallest buildings in the Cortez neighborhood. The project would include 15 subsidized apartments for low-income renters, less than required to avoid paying the city’s inclusionary housing fee. The developer will also pay $1.5 million in fees, which could be used to pay for subsidized housing elsewhere. It will likely take nine months to a year before construction starts",
+    "links": [
+      "https://www.bisnow.com/san-diego/news/multifamily/civic-san-diego-approves-35-story-1st-beech-residential-tower-59641"
+    ]
+  },
+  {
+    "neighborhood": "Core-Columbia",
+    "address": "220 W Broadway, San Diego, CA 92101",
+    "type": "residential",
+    "status": "planning",
+    "description": "37-story building with 431 apartments (including 87 subsidized units), 270,492 square feet of office space and 18,595 square feet of commercial space",
+    "links": [
+      "https://www.sandiegouniontribune.com/business/real-estate/story/2019-05-08/first-look-400-million-complex-proposed-for-old-county-courthouse"
+    ]
+  },
+  {
+    "title": "Two America Plaza",
+    "neighborhood": "Core-Columbia",
+    "description": "13-story building with 301 hotel rooms, 48 condos, 23,300-square feet of commercial space and 179 parking spaces.",
+    "address": "1076 India St, San Diego, CA 92101",
+    "type": "mixed",
+    "status": "planning",
+    "links": [
+      "https://www.sandiegouniontribune.com/business/growth-development/story/2019-11-21/new-hotel-approved-near-sa"
+    ]
+  },
+  {
+    "type": "project",
+    "status": "planning",
+    "title": "14th Street Promenade project",
+    "neighborhood": "East Village",
+    "links": [
+      "https://www.sandiegouniontribune.com/business/growth-development/story/2019-12-13/downtown-roads-will-be-converted-into-parks-starting-with-this-east-village-street" 
+    ],
+    "description": "Currently out for bid, the 14th Street Promenade project, as it’s called, will transform the east side of the road into a park of sorts. A row of trees, a decomposed granite path for pedestrians and additional landscaping will take the place of one travel lane (leaving two in place) and a row of street parking spots, converting a standard 14-foot sidewalk into a 30-foot urban oasis."
+  },
+  {
+    "type": "park",
+    "status": "planning",
+    "title": "Children's Park Improvements",
+    "neighborhood": "Marina",
+    "description": "The makeover calls for unique playground equipment with a forest theme, a picnic and lawn area, an off-leash dog park, adult exercise equipment, a vendor kiosk and public restrooms with an attendant. The plan also includes a simulated wood walkway over the shallow pond so people can walk through the elevated spray fountain. In addition, the city wants to thin the existing urban forest to create more light, and replace the Italian Cypress street trees with canopy street trees to allow for better views into the park.",
+    "links": [
+      "https://www.sandiegouniontribune.com/business/growth-development/story/2019-11-15/childrens-park-is-gearing-up-for-an-8m-renovation"
+    ],
+    "estimated_completion": "Summer 2021"
+  },
+  {
+    "location": "Third and A Street",
+    "neighborhood": "Cortez Hill",
+    "type": "mixed",
+    "status": "planning",
+    "estimated_completion": "mid-2021",
+    "description": "A 21-story mixed-use tower from Houston-based The Hanover Company will include 270 apartments and 4,000-square-feet of retail on the ground floor. It will have 280 parking spots spread out in three underground levels and three floors above ground. The architect is Carrier Johnson + Culture."
+  },
+  {
+    "type": "mixed",
+    "status": "planning",
+    "neighborhood": "Cortez Hill",
+    "description": "The former family court building on Sixth Avenue will be demolished to make room for a mixed-use high-rise that is expected to include 185 housing units and up to 50,000 square feet of commercial and retail space. BRIDGE and AVRP Skyport, the Project Architect, envision the development at the Family Court location to be a 100% affordable housing mixed-use and pedestrian-oriented development.",
+    "links": [
+      "https://www.sandiegouniontribune.com/business/growth-development/sd-me-courthouse-housing-20180517-story.html",
+      "https://www.sandiegocounty.gov/content/sdc/sdhcd/community-development/current-housing-developments/6TH-Avenue-Family-Court-Affordable-Housing.html"
+    ],
+    "estimated_groundbreak": "2023",
+    "estimated_completion": "2024"
+  }
+]
