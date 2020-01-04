@@ -10,7 +10,7 @@ const ProjectCard = ({ project }) => (
       {project.neighborhood && <h6 className="card-subtitle mb-2 text-muted">{project.neighborhood}</h6>}
       {project.location && <p className="card-subtitle mb-2 text-muted"><small>{project.location}</small></p>}
       {project.description && <p className="card-text">{project.description}</p>}
-      {project.events &&
+      {(project.events || []).length > 0 &&
         <dl>
           {project.events.sort((a, b) => Object.values(a)[0] - Object.values(b)[0]).map(event => (
             <React.Fragment key={Object.keys(event)[0]}>
@@ -21,11 +21,11 @@ const ProjectCard = ({ project }) => (
         </dl >
       }
       {project.address && <a className="card-link" href={`https://www.google.com/maps/place/${project.address}`}>Map</a>}
-      {project.links &&
-        <ul>
+      {(project.links || []).length > 0 &&
+        <ul className="mb-0">
           {project.links.map(link => (
             <li key={link}>
-              <a href={link}>{link}</a>
+              <a className="small" href={link}>{link}</a>
             </li>
           ))}
         </ul>
@@ -35,7 +35,7 @@ const ProjectCard = ({ project }) => (
 )
 
 function App() {
-  const groupedProjects = groupBy(projects, 'neighborhood')
+  const groupedProjects = groupBy(projects.filter(project => project.status !== 'completed'), 'neighborhood')
   return (
     <div className="container">
       <div className="float-right"><small><a href="https://github.com/simpixelated/sd-dev-list">View on GitHub</a></small></div>
@@ -53,13 +53,14 @@ function App() {
       <div className="project-list">
       {Object.keys(groupedProjects).map(neighborhood => (
         <div key={neighborhood}>
-          <h4 className="my-4" id={kebabCase(neighborhood)}>{neighborhood}</h4>
+          <h4 className="my-4 text-info" id={kebabCase(neighborhood)}>{neighborhood}</h4>
           {groupedProjects[neighborhood].map((project, index) => (
             <ProjectCard project={project} key={index} />
           ))}
         </div>
       ))}
       </div>
+      <p className="text-right"><small>Built by <a href="https://simpixelated.com">Simpixelated</a></small></p>
     </div>
   );
 }

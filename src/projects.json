@@ -28,21 +28,26 @@
   },
   {
     "type": "residential",
-    "status": "construction",
+    "status": "completed",
     "neighborhood": "Marina",
-    "address": "",
-    "title": "",
-    "description": "Tallest residential building opening 2020 (Bosa building on Broadway)",
-    "links": [],
-    "estimated_completion": ""
+    "address": "888 W E St, San Diego, CA 92101",
+    "title": "Pacific Gate",
+    "description": "Tallest residential building opening 2020",
+    "links": []
   },
   {
     "type": "project",
     "neighborhood": "Gaslamp Quarter",
-    "address": "",
+    "address": "324 Horton Plaza, San Diego, CA 92101",
     "title": "Horton Plaza Redevelopment",
-    "description": "",
-    "links": []
+    "description": "Horton Plaza, the retail ghost town that was once the heart of San Diego’s downtown, is an active construction site as the center’s overseer works to remake the property into a thriving tech hub.",
+    "links": [
+      "https://www.sandiegouniontribune.com/business/growth-development/story/2019-10-03/horton-plaza-interior-demo-park-planning"
+    ],
+    "events": [
+      { "Completion (estimated)": 2020 },
+      { "Groundbreaking": 2019 }
+    ]
   },
   {
     "type": "project",
@@ -72,22 +77,28 @@
     "type": "project",
     "status": "planning",
     "neighborhood": "Marina",
-    "address": "",
+    "address": "849 W Harbor Dr, San Diego, CA 92101",
     "title": "Seaport Village Redevelopment",
-    "description": "",
+    "description": "The mixed-use project calls for 1,933 hotel rooms (spread across six different hotel brands), 276,000 square feet of retail, 150,000 square feet of office, 2,200 parking spaces and 14,000 linear feet of waterside dockage. There’s also 28 acres of public open space, not including an additional 10 acres of public-access rooftop decks.",
     "links": [
-      "https://www.seaportsandiegoca.com/"
+      "https://www.seaportsandiegoca.com/",
+      "https://www.sandiegouniontribune.com/business/growth-development/sd-fi-seaport-sandiego-20181104-story.html",
+      "https://www.sandiegouniontribune.com/business/growth-development/story/2019-07-19/seaport-san-diego-tower-is-like-nothing-else-on-californias-coast-thats-the-problem"
+    ],
+    "events": [
+      { "Groundbreaking (estimated)": 2024 }
     ]
   },
   {
     "type": "project",
     "status": "construction",
     "neighborhood": "Marina",
-    "address": "",
+    "address": "20 Rcf San Diego Way, San Diego, CA 92101",
     "title": "Manchester Pacific Gateway",
     "description": "encompasses seven buildings, plus a 1.9-acre public park, replacing what is known as the Navy Broadway Complex, which the Navy has occupied since the early 1920s.",
     "links": [
-      "https://www.sandiegouniontribune.com/business/growth-development/sd-preview-of-2-billion-bayfront-project-20181031-photogallery.html"
+      "https://www.sandiegouniontribune.com/business/growth-development/sd-preview-of-2-billion-bayfront-project-20181031-photogallery.html",
+      "https://www.manchesterpacificgateway.com/"
     ],
     "events": [
       { "Completion (estimated)": 2021 },
@@ -98,10 +109,13 @@
     "type": "project",
     "status": "construction",
     "neighborhood": "Marina",
-    "address": "",
-    "title": "Orchestra Venue",
-    "description": "",
-    "links": [],
+    "address": "200 Marina Park Way, San Diego, CA 92101",
+    "title": "Bayside Performance Park",
+    "description": "The project includes a 13,015-square-foot outdoor stage, acoustic shell and back-of-house facilities for a year-round version of the program formerly known as the Summer Pops. It also entails a 5,445-square-foot public viewing deck with concrete steps at the back of the stage, a 68-stall restroom and two pavilions on a 15,242-square-foot area.",
+    "links": [
+      "https://www.sandiegouniontribune.com/business/growth-development/story/2019-08-14/san-diego-symphony-building-permanent-bay-venue-next-month",
+      "https://coolsandiegosights.com/2019/12/25/bayside-performance-park-rises-on-san-diego-bay/"
+    ],
     "events": [
       { "Completion (estimated)": 2020 },
       { "Groundbreaking": 2019 }
@@ -110,11 +124,18 @@
   {
     "type": "project",
     "status": "planning",
-    "neighborhood": "Marina",
-    "address": "",
-    "title": "SDIA Terminal 1 Replacement",
-    "description": "",
-    "links": []
+    "neighborhood": "Airport",
+    "address": "3665 N Harbor Dr, San Diego, CA 92101",
+    "title": "San Diego Airport Terminal 1 Replacement",
+    "description": "Replacement of the aging and outdated Terminal 1, along with related improvements: a new, modern airport terminal, including more gate-area seating, restaurants and shops, as well as additional security checkpoints with more lanes. The plan still calls for a proposed on-airport access road that would remove an estimated 45,000 cars per day from North Harbor Drive.",
+    "links": [
+      "https://www.san.org/Airport-Projects/Airport-Development-Plan",
+      "https://www.san.org/Airport-ADP"
+    ],
+    "events": [
+      { "Groundbreaking (estimated)": 2021 },
+      { "Completion (estimated)": 2024 }
+    ]
   },
   {
     "type": "project",
@@ -122,8 +143,11 @@
     "neighborhood": "Marina",
     "address": "",
     "title": "Convention Center Expansion",
-    "description": "",
-    "links": []
+    "description": "Funding would allow the city to purchase a parcel of land adjacent to the convention center that is currently owned by Fifth Avenue Landing. Once it purchases the land, the city would expand the convention center by roughly 400,000 square feet, from roughly 800,000 square feet to about 1.2 million square feet.",
+    "links": [
+      "https://visitsandiego.com/blog-category/expansion",
+      "https://timesofsandiego.com/politics/2019/10/21/council-oks-work-on-tax-to-fund-convention-center-expansion-other-projects/"
+    ]
   },
   {
     "type": "hotel",
