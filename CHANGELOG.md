@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2020-01-03
+### Added
+- [Google Analytics](https://github.com/simpixelated/sd-dev-list/issues/2)
+
+### Changed
+- Added title to Downtown Mobility Plan
+
 ## [1.0.0] - 2020-01-03
 ### Added
 - Downtown Mobility Plan
