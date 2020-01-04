@@ -359,5 +359,16 @@
     "events": [
       { "Groundbreaking": 2018 }
     ]
+  },
+  {
+    "title": "Gaslamp Promenade",
+    "description": "Pedestrian promenade along Fifth Avenue between Broadway and L Street",
+    "neighborhood": "Gaslamp Quarter",
+    "type": "project",
+    "status": "planning",
+    "links": [
+      "https://www.gaslamp.org/promenade/",
+      "https://www.sandiegouniontribune.com/communities/san-diego/story/2019-10-30/san-diego-may-create-gaslamp-promenade-by-banning-cars-from-fifth-avenue"
+    ]
   }
 ]
