@@ -2,6 +2,7 @@ import React from 'react';
 import groupBy from 'lodash/groupBy';
 import kebabCase from 'lodash/kebabCase';
 import projects from './projects.json';
+import packageInfo from '../package.json';
 
 const ProjectCard = ({ project }) => (
   <div className="card mb-2">
@@ -60,7 +61,7 @@ function App() {
         </div>
       ))}
       </div>
-      <p className="text-right"><small>Built by <a href="https://simpixelated.com">Simpixelated</a>, inspired by <a href="https://sandiego.urbdezine.com/development-map/">San Diego UrbDeZine</a></small></p>
+      <p className="text-right"><small>Built by <a href="https://simpixelated.com">Simpixelated</a>, inspired by <a href="https://sandiego.urbdezine.com/development-map/">San Diego UrbDeZine</a>. Version {packageInfo.version} (<a href="https://github.com/simpixelated/sd-dev-list/blob/master/CHANGELOG.md">changelog</a>)</small></p>
     </div>
   );
 }
