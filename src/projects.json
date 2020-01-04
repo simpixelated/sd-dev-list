@@ -13,18 +13,22 @@
   {
     "type": "project",
     "neighborhood": "East Village",
-    "address": "",
+    "address": "1235 K St, San Diego, CA 92101",
     "title": "Tailgate Park Redevelopment",
     "description": "City of San Diego has RFP out for existing tailgate park, which comprises four city blocks.",
-    "links": []
+    "links": [
+      "https://www.sandiegouniontribune.com/business/growth-development/story/2019-12-16/tailgate-park-is-officially-for-sale-international-buyers-welcome"
+    ]
   },
   {
     "type": "project",
     "neighborhood": "East Village",
-    "address": "",
+    "address": "58 11th Ave, San Diego, CA 92113",
     "title": "Parcel D",
     "description": "currently used as stadium parking, received approval in Q1 this year for up to 800,000 SF of development",
-    "links": []
+    "links": [
+      "https://www.sandiegouniontribune.com/business/growth-development/sd-fi-ballpark-village-petco-park-development-20190319-story.html"
+    ]
   },
   {
     "type": "residential",
@@ -50,12 +54,19 @@
     ]
   },
   {
-    "type": "project",
-    "neighborhood": "Marina",
-    "address": "",
+    "type": "hotel",
+    "neighborhood": "East Village",
+    "address": "517 Seventh Ave, San Diego, CA 92101",
+    "location": "Seventh Avenue and Market Street",
     "title": "Ritz Carlton",
-    "description": "",
-    "links": []
+    "description": "In addition to the hotel and gourmet grocer, the 7th & Market project calls for 160,000 square feet of office space, 59 Ritz-branded condos averaging 2,000 square feet in size, 125 market-rate apartments and 34 affordable rental units.",
+    "links": [
+      "https://www.cisterra.com/7thandmarket",
+      "https://www.sandiegouniontribune.com/business/tourism/sd-fi-ritzcarlton-suit-dismissal-20180927-story.html"
+    ],
+    "events": [
+      { "Completion (estimated)": 2023 }
+    ]
   },
   {
     "type": "project",
@@ -333,6 +344,20 @@
     "events": [
       { "Completion (estimated)": 2024 },
       { "Groundbreaking (estimated)": 2023 }
+    ]
+  },
+  {
+    "type": "project",
+    "status": "construction",
+    "neighborhood": "Downtown",
+    "description": "Network of protected bicycle lanes.",
+    "links": [
+      "http://simpixelated.github.io/san-diego-downtown-mobility-plan/",
+      "https://bikesd.org/portfolio/downtown-mobility-plan/",
+      "https://www.smartcitiesworld.net/news/news/san-diego-reshapes-downtown-transportation-network-3704"
+    ],
+    "events": [
+      { "Groundbreaking": 2018 }
     ]
   }
 ]

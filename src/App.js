@@ -60,7 +60,7 @@ function App() {
         </div>
       ))}
       </div>
-      <p className="text-right"><small>Built by <a href="https://simpixelated.com">Simpixelated</a></small></p>
+      <p className="text-right"><small>Built by <a href="https://simpixelated.com">Simpixelated</a>, inspired by <a href="https://sandiego.urbdezine.com/development-map/">San Diego UrbDeZine</a></small></p>
     </div>
   );
 }
