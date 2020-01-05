@@ -270,6 +270,7 @@
     ]
   },
   {
+    "title": "India & Beech",
     "neighborhood": "Little Italy",
     "address": "1460 India Street, San Diego, CA 92101",
     "status": "planning",
@@ -314,7 +315,7 @@
     "neighborhood": "Core-Columbia",
     "description": "13-story building with 301 hotel rooms, 48 condos, 23,300-square feet of commercial space and 179 parking spaces.",
     "address": "1076 India St, San Diego, CA 92101",
-    "type": "mixed",
+    "type": "hotel",
     "status": "planning",
     "links": [
       "https://www.sandiegouniontribune.com/business/growth-development/story/2019-11-21/new-hotel-approved-near-sa"
@@ -346,7 +347,7 @@
   {
     "location": "Third and A Street",
     "neighborhood": "Cortez Hill",
-    "type": "mixed",
+    "type": "residential",
     "status": "planning",
     "estimated_completion": "mid-2021",
     "description": "A 21-story mixed-use tower from Houston-based The Hanover Company will include 270 apartments and 4,000-square-feet of retail on the ground floor. It will have 280 parking spots spread out in three underground levels and three floors above ground. The architect is Carrier Johnson + Culture.",
@@ -355,7 +356,7 @@
     ]
   },
   {
-    "type": "mixed",
+    "type": "residential",
     "status": "planning",
     "neighborhood": "Cortez Hill",
     "description": "The former family court building on Sixth Avenue will be demolished to make room for a mixed-use high-rise that is expected to include 185 housing units and up to 50,000 square feet of commercial and retail space. BRIDGE and AVRP Skyport, the Project Architect, envision the development at the Family Court location to be a 100% affordable housing mixed-use and pedestrian-oriented development.",
