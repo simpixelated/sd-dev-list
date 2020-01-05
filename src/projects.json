@@ -31,6 +31,20 @@
     ]
   },
   {
+    "title": "Pinnacle Pacific Heights",
+    "description": "445 apartments",
+    "address": "1221 11th Ave San Diego, CA 92101",
+    "type": "residential",
+    "status": "planning",
+    "location": "11th Avenue",
+    "neighborhood": "East Village",
+    "links": [
+      "https://www.skyscrapercenter.com/building/pinnacle-pacific-heights/36009",
+      "https://www.sandiegouniontribune.com/business/growth-development/sdut-pinnacle-buys-pacific-heights-building-site-2016mar07-htmlstory.html",
+      "https://www.sandiegouniontribune.com/business/real-estate/story/2019-07-23/developer-seeks-to-separate"
+    ]
+  },
+  {
     "type": "residential",
     "status": "completed",
     "neighborhood": "Marina",
@@ -65,6 +79,7 @@
       "https://www.sandiegouniontribune.com/business/tourism/sd-fi-ritzcarlton-suit-dismissal-20180927-story.html"
     ],
     "events": [
+      { "Groundbreaking (estimated)": 2020 },
       { "Completion (estimated)": 2023 }
     ]
   },
@@ -288,6 +303,10 @@
     "description": "37-story building with 431 apartments (including 87 subsidized units), 270,492 square feet of office space and 18,595 square feet of commercial space",
     "links": [
       "https://www.sandiegouniontribune.com/business/real-estate/story/2019-05-08/first-look-400-million-complex-proposed-for-old-county-courthouse"
+    ],
+    "events": [
+      { "Groundbreaking (estimated)": 2020 },
+      { "Completion (estimated)": 2023 }
     ]
   },
   {
@@ -373,6 +392,21 @@
     "links": [
       "https://www.gaslamp.org/promenade/",
       "https://www.sandiegouniontribune.com/communities/san-diego/story/2019-10-30/san-diego-may-create-gaslamp-promenade-by-banning-cars-from-fifth-avenue"
+    ]
+  },
+  {
+    "title": "Overture",
+    "description": "Preservationists have struck a deal with a developer that intends to construct a multi-million dollar 41-story condominium tower on the site of the historic 100-year-old California Theatre on C Street. At 444 units, it would be the largest condominium complex in downtown’s history.",
+    "status": "planning",
+    "type": "residential",
+    "neighborhood": "Core-Columbia",
+    "address": "1122 4th Ave, San Diego, CA 92101",
+    "links": [
+      "https://www.sandiegouniontribune.com/business/real-estate/story/2019-06-11/settlement-reached-in-california-theatre-dispute"
+    ],
+    "events": [
+      { "Groundbreaking (estimated)": 2020 },
+      { "Completion (estimated)": 2022 }
     ]
   }
 ]
