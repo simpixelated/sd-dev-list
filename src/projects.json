@@ -338,9 +338,11 @@
     "neighborhood": "Marina",
     "description": "The makeover calls for unique playground equipment with a forest theme, a picnic and lawn area, an off-leash dog park, adult exercise equipment, a vendor kiosk and public restrooms with an attendant. The plan also includes a simulated wood walkway over the shallow pond so people can walk through the elevated spray fountain. In addition, the city wants to thin the existing urban forest to create more light, and replace the Italian Cypress street trees with canopy street trees to allow for better views into the park.",
     "links": [
+      "https://sandiegodowntownnews.com/plans-in-motion-for-major-revamp-of-childrens-park/",
       "https://www.sandiegouniontribune.com/business/growth-development/story/2019-11-15/childrens-park-is-gearing-up-for-an-8m-renovation"
     ],
     "events": [
+      { "Groundbreaking (estimated)": 2020 },
       { "Completion (estimated)": 2021 }
     ]
   },
