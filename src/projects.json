@@ -413,5 +413,19 @@
       { "Groundbreaking (estimated)": 2020 },
       { "Completion (estimated)": 2022 }
     ]
+  },
+  {
+    "title": "East Village Green",
+    "neighborhood": "East Village",
+    "description": "Anticipated as a three-phase project, East Village Green’s GDP identifies a 4.1-acre park bound by 13th, 15th, F and G streets in the heart of San Diego’s growing East Village neighborhood. The block of 14th Street between F and G streets is envisioned as a pedestrian plaza that could be closed to accommodate street fairs, farmer’s markets and community events.",
+    "status": "planning",
+    "type": "park",
+    "links": [
+      "https://sandiegodowntownnews.com/east-village-green-gets-the-green-light/"
+    ],
+    "events": [
+      { "Groundbreaking (estimated)": 2020 },
+      { "Completion (estimated)": 2022 }
+    ]
   }
 ]
