@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Updated Children's Park data
 - Added link and estimated completion date to Seaport Village Redevelopment
+- Added link to Aiport Terminal 1 Redevelopment
 
 ## [1.2.0] - 2020-01-05
 ### Added
