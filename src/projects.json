@@ -84,6 +84,22 @@
     ]
   },
   {
+    "title": "Cisterra 9G",
+    "type": "residential",
+    "status": "planning",
+    "location": "9th and Market",
+    "neighborhood": "East Village",
+    "address": "660 Tenth Ave, San Diego, CA 92101",
+    "description": "241 Multi-Family Residences with Luxury-Quality Amenities with an urban Target store",
+    "links": [
+      "https://www.cisterra.com/9g",
+      "https://www.instagram.com/p/B7RrQ7lHYuY/"
+    ],
+    "events": [
+      { "Completion (estimated)": 2023 }
+    ]
+  },
+  {
     "type": "project",
     "status": "construction",
     "neighborhood": "East Village",
