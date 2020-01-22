@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - East Village Green
 - Cisterra 9G
+- Father Joe's Homeless Project
 
 ### Changed
 - Updated Children's Park data

@@ -444,5 +444,20 @@
       { "Groundbreaking (estimated)": 2020 },
       { "Completion (estimated)": 2022 }
     ]
+  },
+  {
+    "title": "Saint Teresa of Calcutta Villa",
+    "neighborhood": "East Village",
+    "description": "residential project that will include about 400 units for people facing homelessness",
+    "status": "construction",
+    "type": "residential",
+    "links": [
+      "https://www.sandiegouniontribune.com/news/homelessness/story/2020-01-21/father-joes-begins-construction-on-400-affordable-units"
+    ],
+    "location": "14th and Commercial",
+    "events": [
+      { "Groundbreaking": 2020 },
+      { "Completion (estimated)": 2022 }
+    ]
   }
 ]
