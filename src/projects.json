@@ -459,5 +459,21 @@
       { "Groundbreaking": 2020 },
       { "Completion (estimated)": 2022 }
     ]
+  },
+  {
+    "title": "Portside Pier",
+    "type": "restaurant",
+    "status": "construction",
+    "links": [
+      "http://www.tuckersadler.com/projects/commercial/portside-pier"
+    ]
+  },
+  {
+    "title": "Topgolf Harbor Island",
+    "status": "planning",
+    "type": "attraction",
+    "links": [
+      "https://www.10news.com/news/local-news/port-to-start-negotiating-with-topgolf-on-harbor-island-driving-range"
+    ]
   }
 ]
