@@ -9,6 +9,8 @@ const TableView = ({ projects }) => {
           <th>Type</th>
           <th>Status</th>
           <th>Neighborhood</th>
+          <th>Groundbreaking</th>
+          <th>Completion</th>
         </tr>
       </thead>
       <tbody>
@@ -18,6 +20,8 @@ const TableView = ({ projects }) => {
             <td>{project.type}</td>
             <td>{project.status}</td>
             <td>{project.neighborhood}</td>
+            <td>{project.start}</td>
+            <td>{project.end}</td>
           </tr>
         ))}
       </tbody>

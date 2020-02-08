@@ -9,15 +9,21 @@ const ProjectCard = ({ project }) => (
       {project.neighborhood && <h6 className="card-subtitle mb-2 text-muted">{project.neighborhood}</h6>}
       {project.location && <p className="card-subtitle mb-2 text-muted"><small>{project.location}</small></p>}
       {project.description && <p className="card-text">{project.description}</p>}
-      {(project.events || []).length > 0 &&
+      {(project.start || project.end) &&
         <dl>
-          {project.events.sort((a, b) => Object.values(a)[0] - Object.values(b)[0]).map(event => (
-            <React.Fragment key={Object.keys(event)[0]}>
-              <dt>{Object.keys(event)[0]}</dt>
-              <dd>{Object.values(event)[0]}</dd>
+          {project.start &&
+            <React.Fragment>
+              <dt>Groundbreaking</dt>
+              <dd>{project.start}</dd>
             </React.Fragment>
-          ))}
-        </dl >
+          }
+          {project.end &&
+            <React.Fragment>
+              <dt>Completion</dt>
+              <dd>{project.end}</dd>
+            </React.Fragment>
+          }
+        </dl>
       }
       {project.address && <a className="card-link" href={`https://www.google.com/maps/place/${project.address}`}>Map</a>}
       {(project.links || []).length > 0 &&
