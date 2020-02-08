@@ -441,5 +441,38 @@
     "links": [
       "https://www.10news.com/news/local-news/port-to-start-negotiating-with-topgolf-on-harbor-island-driving-range"
     ]
+  },
+  {
+    "type": "residential",
+    "status": "planning",
+    "location": "Ash and Columbia",
+    "address": "1328 State St, San Diego, CA 92101",
+    "neighborhood": "Core-Columbia",
+    "description": "Residential tower 1 (Ash and Columbia): 228 residential units on 19 levels. Multiple amenity spaces, 283 parking spaces and 10k SF of ground retail space.",
+    "links": [
+      "https://www.instagram.com/p/B8QYtaoHEKW/"
+    ]
+  },
+  {
+    "type": "residential",
+    "status": "planning",
+    "location": "Columbia and A",
+    "address": "1328 State St, San Diego, CA 92101",
+    "neighborhood": "Core-Columbia",
+    "description": "Residential tower 2 (Columbia & A): 108 residential units on 12 levels. Multiple amenity spaces, 139 parking spaces and a 6k retail space at ground level.",
+    "links": [
+      "https://www.instagram.com/p/B8QYtaoHEKW/"
+    ]
+  },
+  {
+    "type": "hotel",
+    "status": "planning",
+    "location": "A and State",
+    "address": "1328 State St, San Diego, CA 92101",
+    "neighborhood": "Core-Columbia",
+    "description": "Hotel tower (A and State): 284 guest rooms on 16 levels and 85 parking spaces.",
+    "links": [
+      "https://www.instagram.com/p/B8QYtaoHEKW/"
+    ]
   }
 ]
