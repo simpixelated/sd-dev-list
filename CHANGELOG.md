@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - Data: Columbia and Ash Residential Towers
+- Data: Updated old California Theatre
 
 ## [1.3.0] - 2020-02-08
 ### Added
