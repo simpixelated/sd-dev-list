@@ -17,6 +17,7 @@
     "title": "Tailgate Park Redevelopment",
     "description": "City of San Diego has RFP out for existing tailgate park, which comprises four city blocks.",
     "links": [
+      "https://eastvillagequarterinput.org/",
       "https://www.sandiegouniontribune.com/business/growth-development/story/2019-12-16/tailgate-park-is-officially-for-sale-international-buyers-welcome"
     ]
   },
@@ -212,6 +213,17 @@
     "links": [
       "https://www.sandiegouniontribune.com/business/growth-development/story/2019-07-09/navy-will-consider-grand-central-station-in-redevelopment-of-point-loma-base",
       "https://www.sandiegouniontribune.com/business/growth-development/story/2019-05-02/what-should-the-navy-do-with-spawar-site-usd-students-have-a-winning-plan"
+    ]
+  },
+  {
+    "title": "Sports Arena Redevelopment",
+    "type": "project",
+    "status": "planning",
+    "address": "3500 Sports Arena Blvd, San Diego, CA 92110",
+    "neighborhood": "Midway District",
+    "description": " San Diego’s efforts to create a massive entertainment district on the city’s 48-acre sports arena site",
+    "links": [
+      "https://www.sandiegouniontribune.com/news/politics/story/2020-08-29/brookfield-lalive-sports-arena-entertainment-district-asm-global"
     ]
   },
   {
@@ -476,6 +488,16 @@
     "description": "Hotel tower (A and State): 284 guest rooms on 16 levels and 85 parking spaces.",
     "links": [
       "https://www.instagram.com/p/B8QYtaoHEKW/"
+    ]
+  },
+  {
+    "type": "project",
+    "status": "construction",
+    "neighborhood": "Mission Valley",
+    "description": "SDSU Stadium / West Campus",
+    "links": [
+      "https://www.sandiegouniontribune.com/sports/aztecs/story/2020-08-17/san-diego-state-sdsu-aztecs-break-ground-on-new-stadium-mission-valley-adela-de-la-torre-jd-wicker-kevin-faulconer",
+      "https://www.sandiegouniontribune.com/business/growth-development/story/2020-03-24/sdsu-mission-valley-stadium"
     ]
   }
 ]
